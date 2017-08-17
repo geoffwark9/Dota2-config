@@ -1,0 +1,1 @@
+-gl -high -useforcedmparms -noforcemaccel -noforcemspd -h 1080 -w 1920 -map dota +con_enable 1 +snd_setmixer Ambient vol 0.1 
